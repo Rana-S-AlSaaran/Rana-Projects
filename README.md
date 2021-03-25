@@ -1,0 +1,1 @@
+This project was a part of the Nanodegree program-Business Analytics. I used historical financial data from S&P 500 companies to compare year 1 and year 4 profits. Also, included a profit predicting sheet for year 5 and 6 for any desired company
